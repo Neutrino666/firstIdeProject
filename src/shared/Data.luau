@@ -17,5 +17,5 @@ local template = {
 }
 
 return DataServiceTyped({
-	template,
+	template = template,
 })
