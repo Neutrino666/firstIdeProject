@@ -19,14 +19,6 @@
       "ServerPackages": {
         "$path": "ServerPackages"
       }
-    },
- 
-    "StarterPlayer": {
-      "StarterPlayerScripts": {
-        "Client": {
-          "$path": "src/client"
-        }
-      }
     }
   }
 }

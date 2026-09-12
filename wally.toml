@@ -7,7 +7,8 @@ realm = "shared"
 [dependencies]
 Promise = "evaera/promise@4.0.0"
 Networker = "leifstout/networker@0.3.1"
-DataServiceTyped = "leifstout/dataservicetyped@1.0.5"
+# DataServiceTyped = "leifstout/dataservicetyped@1.0.5"
+DataServiceTyped = "dontmineatnight/dataservicetyped@1.0.7"
 
 [server-dependencies]
 Profileservice = "firebird702/profileservice@1.1.0"
